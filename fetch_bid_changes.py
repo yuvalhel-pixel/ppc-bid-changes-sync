@@ -32,14 +32,21 @@ def search(token, gaql):
         "login-customer-id": os.environ.get("GOOGLE_ADS_LOGIN_CUSTOMER_ID", "5156996580"),
         "Content-Type": "application/json",
     }
-    resp = requests.post(
-        f"https://googleads.googleapis.com/v24/customers/{customer_id}/googleAds:search",
-        headers=headers,
-        json={"query": gaql},
-        timeout=30,
-    )
-    resp.raise_for_status()
-    return resp.json().get("results", [])
+    for attempt in range(3):
+        try:
+            resp = requests.post(
+                f"https://googleads.googleapis.com/v24/customers/{customer_id}/googleAds:search",
+                headers=headers,
+                json={"query": gaql},
+                timeout=60,
+            )
+            resp.raise_for_status()
+            return resp.json().get("results", [])
+        except requests.exceptions.ReadTimeout:
+            if attempt == 2:
+                raise
+            import time
+            time.sleep(5 * (attempt + 1))
 
 
 def extract_portfolio_num(name):
