@@ -40,33 +40,5 @@
     "change_date": "2026-07-05",
     "days_since": 4,
     "detail": "Portfolio 2 \u2192 1 (renamed)"
-  },
-  "bi_us_en_competitors-2_dt_ep_portfolio4_premium_nov22": {
-    "has_recent_bid_change": true,
-    "change_type": "portfolio_upgrade",
-    "change_date": "2026-07-02",
-    "days_since": 7,
-    "detail": "Portfolio 5 \u2192 4 (renamed)"
-  },
-  "bi_us_en_domain-bng_mob_ep_portfolio2_premium_mar24": {
-    "has_recent_bid_change": true,
-    "change_type": "portfolio_upgrade",
-    "change_date": "2026-07-02",
-    "days_since": 7,
-    "detail": "Portfolio 3 \u2192 2 (renamed)"
-  },
-  "bi_us_en_website_mob_ep_portfolio1_premium_oct22": {
-    "has_recent_bid_change": true,
-    "change_type": "portfolio_upgrade",
-    "change_date": "2026-07-02",
-    "days_since": 7,
-    "detail": "Portfolio 2 \u2192 1 (renamed)"
-  },
-  "bi_us_en_website-top-5_mob_ep_portfolio1_premium_aug25": {
-    "has_recent_bid_change": true,
-    "change_type": "portfolio_upgrade",
-    "change_date": "2026-07-02",
-    "days_since": 7,
-    "detail": "Portfolio 2 \u2192 1 (renamed)"
   }
 }
