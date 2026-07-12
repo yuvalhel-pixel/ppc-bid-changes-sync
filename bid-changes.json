@@ -1,4 +1,25 @@
 {
+  "bi_uk_en_ai_dt_ep_portfolio2_premium_feb24": {
+    "has_recent_bid_change": true,
+    "change_type": "portfolio_upgrade",
+    "change_date": "2026-07-12",
+    "days_since": 0,
+    "detail": "Portfolio 3 \u2192 2 (renamed)"
+  },
+  "bi_ca_en_hosting_dt_ep_portfolio1_purpage_nov22": {
+    "has_recent_bid_change": true,
+    "change_type": "portfolio_upgrade",
+    "change_date": "2026-07-12",
+    "days_since": 0,
+    "detail": "Portfolio 3 \u2192 1 (renamed)"
+  },
+  "bi_ca_en_hosting_dt_ep_portfolio2_purpage_nov22": {
+    "has_recent_bid_change": true,
+    "change_type": "portfolio_upgrade",
+    "change_date": "2026-07-12",
+    "days_since": 0,
+    "detail": "Portfolio 3 \u2192 2 (renamed)"
+  },
   "bi_us_en_bookings-2_dt_ep_portfolio4_premium_nov22": {
     "has_recent_bid_change": true,
     "change_type": "portfolio_upgrade",
