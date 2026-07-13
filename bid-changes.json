@@ -24,21 +24,21 @@
     "has_recent_bid_change": true,
     "change_type": "portfolio_upgrade",
     "change_date": "2026-07-08",
-    "days_since": 4,
+    "days_since": 5,
     "detail": "Portfolio 5 \u2192 4 (renamed)"
   },
   "bi_us_en_other-verticals-2_dt_ep_portfolio4_premium_nov22": {
     "has_recent_bid_change": true,
     "change_type": "portfolio_upgrade",
     "change_date": "2026-07-08",
-    "days_since": 4,
+    "days_since": 5,
     "detail": "Portfolio 5 \u2192 4 (renamed)"
   },
   "bi_us_en_business-website-2_dt_ep_portfolio4_premium_nov22": {
     "has_recent_bid_change": true,
     "change_type": "portfolio_upgrade",
     "change_date": "2026-07-08",
-    "days_since": 4,
+    "days_since": 5,
     "detail": "Portfolio 5 \u2192 4 (renamed)"
   }
 }
