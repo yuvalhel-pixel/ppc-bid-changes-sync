@@ -153,12 +153,20 @@ def main():
 
             if "name" in changed_fields:
                 old_name = ((evt.get("oldResource") or {}).get("campaign") or {}).get("name", "")
-                new_name = ((evt.get("newResource") or {}).get("campaign") or {}).get("name", "")
+                new_name = (
+                    ((evt.get("newResource") or {}).get("campaign") or {}).get("name", "")
+                    or campaign_name  # fall back to current name when newResource is not populated
+                )
                 old_num = extract_portfolio_num(old_name)
                 new_num = extract_portfolio_num(new_name)
                 if old_num is not None and new_num is not None and new_num < old_num:
                     record(new_name or campaign_name, "portfolio_upgrade", change_date,
                            f"Portfolio {old_num} → {new_num} (renamed)")
+                elif new_num is not None and old_num is None and new_name:
+                    # API didn't return old resource — can't verify direction,
+                    # but flag any portfolio rename as a recent change.
+                    record(new_name, "portfolio_upgrade", change_date,
+                           f"Portfolio {new_num} (renamed)")
 
         elif rtype == "BIDDING_STRATEGY":
             if "target_cpa" in fields_str:
