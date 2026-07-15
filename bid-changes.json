@@ -138,12 +138,5 @@
     "change_date": "2026-07-08",
     "days_since": 6,
     "detail": "Portfolio 4 \u2192 5 (renamed)"
-  },
-  "bi_tier3_en_competitors-2_dt_ep_portfolio9_purpage_oct22": {
-    "has_recent_bid_change": true,
-    "change_type": "portfolio_downgrade",
-    "change_date": "2026-07-07",
-    "days_since": 7,
-    "detail": "Portfolio 8 \u2192 9 (renamed)"
   }
 }
