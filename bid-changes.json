@@ -68,19 +68,5 @@
     "change_date": "2026-07-15",
     "days_since": 5,
     "detail": "Portfolio 4 \u2192 3 (renamed)"
-  },
-  "bi_tier1_en_website-blog_dt_dsa_portfolio1_purpage_june24": {
-    "has_recent_bid_change": true,
-    "change_type": "portfolio_upgrade",
-    "change_date": "2026-07-13",
-    "days_since": 7,
-    "detail": "Portfolio 2 \u2192 1 (renamed)"
-  },
-  "bi_us_en_domain-pages_dt_dsa_portfolio2_purpage_feb26": {
-    "has_recent_bid_change": true,
-    "change_type": "portfolio_downgrade",
-    "change_date": "2026-07-13",
-    "days_since": 7,
-    "detail": "Portfolio 1 \u2192 2 (renamed)"
   }
 }
