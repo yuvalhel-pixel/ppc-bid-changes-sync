@@ -1,4 +1,11 @@
 {
+  "bi_uk_en_ai_dt_ep_portfolio1_premium_feb24": {
+    "has_recent_bid_change": true,
+    "change_type": "portfolio_upgrade",
+    "change_date": "2026-07-22",
+    "days_since": 0,
+    "detail": "Portfolio 2 \u2192 1 (renamed)"
+  },
   "bi_us_en_domain-mailbox-1_dt_ep_portfolio2_premium_nov22": {
     "has_recent_bid_change": true,
     "change_type": "portfolio_downgrade",
@@ -73,21 +80,21 @@
     "has_recent_bid_change": true,
     "change_type": "portfolio_downgrade",
     "change_date": "2026-07-15",
-    "days_since": 6,
+    "days_since": 7,
     "detail": "Portfolio 2 \u2192 3 (renamed)"
   },
   "bi_au_en_domain-mailbox-2_dt_ep_portfolio2_purpage_sep22": {
     "has_recent_bid_change": true,
     "change_type": "portfolio_upgrade",
     "change_date": "2026-07-15",
-    "days_since": 6,
+    "days_since": 7,
     "detail": "Portfolio 3 \u2192 2 (renamed)"
   },
   "bi_au_en_domain-mailbox-2_dt_ep_portfolio3_purpage_sep22": {
     "has_recent_bid_change": true,
     "change_type": "portfolio_upgrade",
     "change_date": "2026-07-15",
-    "days_since": 6,
+    "days_since": 7,
     "detail": "Portfolio 4 \u2192 3 (renamed)"
   }
 }
