@@ -73,7 +73,7 @@
     "has_recent_bid_change": true,
     "change_type": "portfolio_upgrade",
     "change_date": "2026-07-22",
-    "days_since": 0,
+    "days_since": 1,
     "detail": "Portfolio 2 \u2192 1 (renamed)"
   },
   "bi_us_en_domain-mailbox-1_dt_ep_portfolio2_premium_nov22": {
