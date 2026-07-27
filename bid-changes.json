@@ -1,4 +1,39 @@
 {
+  "bi_us_en_website-top-4_mob_ep_portfolio1_premium_aug25": {
+    "has_recent_bid_change": true,
+    "change_type": "portfolio_upgrade",
+    "change_date": "2026-07-27",
+    "days_since": 0,
+    "detail": "Portfolio 2 \u2192 1 (renamed)"
+  },
+  "bi_us_en_website-top-2_mob_ep_portfolio1_premium_oct22": {
+    "has_recent_bid_change": true,
+    "change_type": "portfolio_upgrade",
+    "change_date": "2026-07-27",
+    "days_since": 0,
+    "detail": "Portfolio 2 \u2192 1 (renamed)"
+  },
+  "bi_us_en_bookings-3_mob_ep_portfolio2_premium_oct22": {
+    "has_recent_bid_change": true,
+    "change_type": "portfolio_downgrade",
+    "change_date": "2026-07-27",
+    "days_since": 0,
+    "detail": "Portfolio 1 \u2192 2 (renamed)"
+  },
+  "bi_us_en_bookings-2_mob_ep_portfolio2_premium_oct22": {
+    "has_recent_bid_change": true,
+    "change_type": "portfolio_downgrade",
+    "change_date": "2026-07-27",
+    "days_since": 0,
+    "detail": "Portfolio 1 \u2192 2 (renamed)"
+  },
+  "bi_us_en_music-2_mob_ep_portfolio2_premium_oct22": {
+    "has_recent_bid_change": true,
+    "change_type": "portfolio_downgrade",
+    "change_date": "2026-07-27",
+    "days_since": 0,
+    "detail": "Portfolio 1 \u2192 2 (renamed)"
+  },
   "bi_uk_en_domain-core-2_dt_ep_portfolio1_premium_aug22": {
     "has_recent_bid_change": true,
     "change_type": "portfolio_upgrade",
@@ -80,7 +115,7 @@
     "has_recent_bid_change": true,
     "change_type": "portfolio_downgrade",
     "change_date": "2026-07-23",
-    "days_since": 3,
+    "days_since": 4,
     "detail": "Portfolio 1 \u2192 2 (renamed)"
   },
   "bi_uk_en_ai_dt_ep_portfolio1_premium_feb24": {
@@ -94,28 +129,28 @@
     "has_recent_bid_change": true,
     "change_type": "portfolio_downgrade",
     "change_date": "2026-07-22",
-    "days_since": 4,
+    "days_since": 5,
     "detail": "Portfolio 1 \u2192 2 (renamed)"
   },
   "bi_us_en_domain-mailbox-1_dt_ep_portfolio1_premium_nov22": {
     "has_recent_bid_change": true,
     "change_type": "portfolio_upgrade",
     "change_date": "2026-07-22",
-    "days_since": 4,
+    "days_since": 5,
     "detail": "Portfolio 2 \u2192 1 (renamed)"
   },
   "bi_us_en_website_mob_ep_portfolio2_premium_oct22": {
     "has_recent_bid_change": true,
     "change_type": "portfolio_downgrade",
     "change_date": "2026-07-21",
-    "days_since": 5,
+    "days_since": 6,
     "detail": "Portfolio 1 \u2192 2 (renamed)"
   },
   "bi_us_en_domain-core-2_mob_ep_portfolio2_premium_oct22": {
     "has_recent_bid_change": true,
     "change_type": "portfolio_downgrade",
     "change_date": "2026-07-21",
-    "days_since": 5,
+    "days_since": 6,
     "detail": "Portfolio 1 \u2192 2 (renamed)"
   },
   "bi_us_en_website-top-5_mob_ep_portfolio2_premium_aug25": {
