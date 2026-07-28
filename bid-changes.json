@@ -152,26 +152,5 @@
     "change_date": "2026-07-21",
     "days_since": 6,
     "detail": "Portfolio 1 \u2192 2 (renamed)"
-  },
-  "bi_us_en_website-top-5_mob_ep_portfolio2_premium_aug25": {
-    "has_recent_bid_change": true,
-    "change_type": "portfolio_downgrade",
-    "change_date": "2026-07-20",
-    "days_since": 7,
-    "detail": "Portfolio 1 \u2192 2 (renamed)"
-  },
-  "bi_us_en_competitors-2_mob_ep_portfolio2_premium_july24": {
-    "has_recent_bid_change": true,
-    "change_type": "portfolio_downgrade",
-    "change_date": "2026-07-20",
-    "days_since": 7,
-    "detail": "Portfolio 1 \u2192 2 (renamed)"
-  },
-  "bi_us_en_domain-mailbox-2_mob_ep_portfolio2_premium_oct22": {
-    "has_recent_bid_change": true,
-    "change_type": "portfolio_upgrade",
-    "change_date": "2026-07-20",
-    "days_since": 7,
-    "detail": "Portfolio 3 \u2192 2 (renamed)"
   }
 }
