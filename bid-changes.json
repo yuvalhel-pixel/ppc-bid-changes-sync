@@ -1,4 +1,32 @@
 {
+  "bi_tier1_en_website-blog_dt_dsa_portfolio2_purpage_june24": {
+    "has_recent_bid_change": true,
+    "change_type": "portfolio_downgrade",
+    "change_date": "2026-07-30",
+    "days_since": 0,
+    "detail": "Portfolio 1 \u2192 2 (renamed)"
+  },
+  "bi_tier1_en_all-blog_dt_dsa_portfolio1_purpage_june24": {
+    "has_recent_bid_change": true,
+    "change_type": "portfolio_upgrade",
+    "change_date": "2026-07-30",
+    "days_since": 0,
+    "detail": "Portfolio 2 \u2192 1 (renamed)"
+  },
+  "bi_us_en_ecom-competitors_dt_ep_portfolio4_premium_feb26": {
+    "has_recent_bid_change": true,
+    "change_type": "portfolio_upgrade",
+    "change_date": "2026-07-30",
+    "days_since": 0,
+    "detail": "Portfolio 5 \u2192 4 (renamed)"
+  },
+  "bi_us_en_website-3_dt_ep_portfolio4_premium_nov24": {
+    "has_recent_bid_change": true,
+    "change_type": "portfolio_upgrade",
+    "change_date": "2026-07-30",
+    "days_since": 0,
+    "detail": "Portfolio 5 \u2192 4 (renamed)"
+  },
   "bi_us_en_website-top_mob_ep_portfolio1_premium_oct22": {
     "has_recent_bid_change": true,
     "change_type": "portfolio_upgrade",
