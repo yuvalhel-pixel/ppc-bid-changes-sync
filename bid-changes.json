@@ -31,14 +31,14 @@
     "has_recent_bid_change": true,
     "change_type": "portfolio_upgrade",
     "change_date": "2026-07-30",
-    "days_since": 0,
+    "days_since": 1,
     "detail": "Portfolio 2 \u2192 1 (renamed)"
   },
   "bi_us_en_domain-mailbox-1_dt_ep_portfolio1_premium_nov22": {
     "has_recent_bid_change": true,
     "change_type": "portfolio_upgrade",
     "change_date": "2026-07-27",
-    "days_since": 3,
+    "days_since": 4,
     "detail": "Portfolio 2 \u2192 1 (renamed)"
   },
   "bi_us_en_website-top-4_mob_ep_portfolio1_premium_aug25": {
@@ -80,14 +80,14 @@
     "has_recent_bid_change": true,
     "change_type": "portfolio_upgrade",
     "change_date": "2026-07-26",
-    "days_since": 4,
+    "days_since": 5,
     "detail": "Portfolio 2 \u2192 1 (renamed)"
   },
   "bi_uk_en_domain-core-2_dt_ep_portfolio2_premium_aug22": {
     "has_recent_bid_change": true,
     "change_type": "portfolio_downgrade",
     "change_date": "2026-07-26",
-    "days_since": 4,
+    "days_since": 5,
     "detail": "Portfolio 1 \u2192 2 (renamed)"
   }
 }
