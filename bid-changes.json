@@ -10,7 +10,7 @@
     "has_recent_bid_change": true,
     "change_type": "portfolio_upgrade",
     "change_date": "2026-08-06",
-    "days_since": 1,
+    "days_since": 2,
     "detail": "Portfolio 3 \u2192 1 (renamed)"
   }
 }
